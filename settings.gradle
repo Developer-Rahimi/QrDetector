@@ -1,0 +1,3 @@
+include ':QrDetector'
+include ':app'
+rootProject.name = "QrCode"
